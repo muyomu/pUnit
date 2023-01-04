@@ -1,0 +1,19 @@
+{
+    "name": "muyomu/punit",
+    "description": "The unit test",
+    "type": "library",
+    "license": "apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "muyomu\\punit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mutian",
+            "email": "bhfqlz@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
