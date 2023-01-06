@@ -6,5 +6,9 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Muyomu\\Punit\\' => array($baseDir . '/src'),
+    'muyomu\\punit\\' => array($baseDir . '/src'),
+    'muyomu\\log4p\\' => array($vendorDir . '/muyomu/log4p/src'),
+    'muyomu\\inject\\' => array($vendorDir . '/muyomu/inject/src'),
+    'muyomu\\config\\' => array($vendorDir . '/muyomu/config/src'),
+    'muyomu\\aop\\' => array($vendorDir . '/muyomu/aop/src'),
 );

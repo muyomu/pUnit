@@ -6,6 +6,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="muyomu\punit\" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/muyomu/log4p" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/muyomu/inject" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/muyomu/config" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/muyomu/aop" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

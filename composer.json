@@ -15,5 +15,8 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "muyomu/aop": "1.0.11",
+        "muyomu/inject": "1.0.4"
+    }
 }
